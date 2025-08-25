@@ -8,3 +8,8 @@ def index():
 @app.get("/carrot")
 def carrot():
     return <b>"Wow Carrot!"</b>
+
+
+pip install "uvicorn[standard]"
+uvicorn main: app --reload
+main - main
