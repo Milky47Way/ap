@@ -1,0 +1,5 @@
+Bolean - правда, неправда
+Column - стовпчик
+ForeignKey - зовнішній ключ
+Integer - цілі числа
+String - текст
